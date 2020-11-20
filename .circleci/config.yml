@@ -36,4 +36,4 @@ workflows:
       - one
       - two:
            requires:
-           -one
+           - one
